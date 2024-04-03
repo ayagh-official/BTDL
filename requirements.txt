@@ -1,0 +1,9 @@
+tensorflow-cpu==2.16.1
+keras-resnet
+fastapi
+uvicorn
+gunicorn
+python-multipart
+pillow
+matplotlib
+numpy
